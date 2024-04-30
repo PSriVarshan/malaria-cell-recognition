@@ -37,8 +37,8 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## PROGRAM
 
-> Developed by: SHALINI K <br>
-> Register no: 212222240095
+> Developed by: Sri Varshan P <br>
+> Register no: 212222240104
 
 **Importing libraries**
 ```python
